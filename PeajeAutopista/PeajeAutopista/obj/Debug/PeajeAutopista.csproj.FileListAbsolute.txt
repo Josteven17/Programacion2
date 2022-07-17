@@ -1,0 +1,16 @@
+C:\Users\josep\source\repos\PeajeAutopista\PeajeAutopista\bin\Debug\PeajeAutopista.exe.config
+C:\Users\josep\source\repos\PeajeAutopista\PeajeAutopista\bin\Debug\PeajeAutopista.exe
+C:\Users\josep\source\repos\PeajeAutopista\PeajeAutopista\bin\Debug\PeajeAutopista.pdb
+C:\Users\josep\source\repos\PeajeAutopista\PeajeAutopista\obj\Debug\PeajeAutopista.csproj.AssemblyReference.cache
+C:\Users\josep\source\repos\PeajeAutopista\PeajeAutopista\obj\Debug\PeajeAutopista.csproj.SuggestedBindingRedirects.cache
+C:\Users\josep\source\repos\PeajeAutopista\PeajeAutopista\obj\Debug\PeajeAutopista.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\PeajeAutopista\PeajeAutopista\obj\Debug\PeajeAutopista.exe
+C:\Users\josep\source\repos\PeajeAutopista\PeajeAutopista\obj\Debug\PeajeAutopista.pdb
+D:\UH\Programacion 2\PeajeAutopista\PeajeAutopista\bin\Debug\PeajeAutopista.exe.config
+D:\UH\Programacion 2\PeajeAutopista\PeajeAutopista\bin\Debug\PeajeAutopista.exe
+D:\UH\Programacion 2\PeajeAutopista\PeajeAutopista\bin\Debug\PeajeAutopista.pdb
+D:\UH\Programacion 2\PeajeAutopista\PeajeAutopista\obj\Debug\PeajeAutopista.csproj.AssemblyReference.cache
+D:\UH\Programacion 2\PeajeAutopista\PeajeAutopista\obj\Debug\PeajeAutopista.csproj.SuggestedBindingRedirects.cache
+D:\UH\Programacion 2\PeajeAutopista\PeajeAutopista\obj\Debug\PeajeAutopista.csproj.CoreCompileInputs.cache
+D:\UH\Programacion 2\PeajeAutopista\PeajeAutopista\obj\Debug\PeajeAutopista.exe
+D:\UH\Programacion 2\PeajeAutopista\PeajeAutopista\obj\Debug\PeajeAutopista.pdb
