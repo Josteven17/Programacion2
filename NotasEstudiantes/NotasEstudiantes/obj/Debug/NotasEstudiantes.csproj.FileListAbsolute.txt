@@ -1,0 +1,8 @@
+C:\Users\josep\source\repos\NotasEstudiantes\NotasEstudiantes\bin\Debug\NotasEstudiantes.exe.config
+C:\Users\josep\source\repos\NotasEstudiantes\NotasEstudiantes\bin\Debug\NotasEstudiantes.exe
+C:\Users\josep\source\repos\NotasEstudiantes\NotasEstudiantes\bin\Debug\NotasEstudiantes.pdb
+C:\Users\josep\source\repos\NotasEstudiantes\NotasEstudiantes\obj\Debug\NotasEstudiantes.csproj.AssemblyReference.cache
+C:\Users\josep\source\repos\NotasEstudiantes\NotasEstudiantes\obj\Debug\NotasEstudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\josep\source\repos\NotasEstudiantes\NotasEstudiantes\obj\Debug\NotasEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\NotasEstudiantes\NotasEstudiantes\obj\Debug\NotasEstudiantes.exe
+C:\Users\josep\source\repos\NotasEstudiantes\NotasEstudiantes\obj\Debug\NotasEstudiantes.pdb
